@@ -66,3 +66,7 @@ void loop() {
   delay(10);
 }
 ```
+
+### Part A: Funcionament
+<img src="osciloscopi.jpg" alt="En aquesta imatge veiem l'output de l'oscil·loscopi quan la dada enviada és una A, aquest coincideix amb el codi ascii de la A." width="500"/>
+En aquesta imatge veiem l'output de l'oscil·loscopi quan la dada enviada és una A, aquest coincideix amb el codi ascii de la A.
